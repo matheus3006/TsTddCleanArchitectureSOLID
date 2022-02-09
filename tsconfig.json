@@ -4,7 +4,7 @@
     "module":"CommonJS",
     "target":"ES2019",
     "esModuleInterop": true,
-    "strict": true,
+    "strict": false,
     "strictNullChecks": false,
     "declaration": false
   },
