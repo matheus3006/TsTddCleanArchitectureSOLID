@@ -24,9 +24,11 @@
   },
   "homepage": "https://github.com/matheus3006/TsTddCleanArchitectureSOLID#readme",
   "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7",
     "@shelf/jest-mongodb": "^2.2.0",
     "@types/bcrypt": "^5.0.0",
     "@types/express": "^4.17.13",
+    "@types/faker": "^6.6.9",
     "@types/jest": "^27.4.0",
     "@types/mongodb": "^4.0.7",
     "@types/node": "^17.0.12",
